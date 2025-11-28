@@ -1,0 +1,50 @@
+[
+  {
+    "keyname": "US Server 1",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "US",
+    "flagimgurl": "https://flagcdn.com/w40/us.png",
+    "encrypted_key": "HTRHYavLxPPMsydITP0h1pA1ZtdwHHsUfn9u9tvejplCqijq2SWBmdbcamQo63IYXjPND/3FicD/BxmSu7G4E+pKzI3e7UQ37vMHfhZMTX+RADqNu2ERtZ6TxFa+WIFG9mP7lghA1m+xREP2Gx8s8Q=="
+  },
+  {
+    "keyname": "Premium Server",
+    "protocol": "vless://",
+    "is_vip": true,
+    "country": "SG",
+    "flagimgurl": "https://flagcdn.com/w40/sg.png",
+    "encrypted_key": "7v4aX5HW0FDX5/YhLi0dtEtdnkLsiLQFLDu7Id73k6Ac9F4AGTyN7BD04OrHLApogq8RxDM+legVv+tGzeUf2uu3K+W0mI22NLxlqCNZLozNEIkFj/p6HxDR1OrR8cnVfpOQbbEaDii7qc0gFkmrxDgHfdmK0agbnfkAlbhQ9KCvhJWHRScY0JjAI0Cc/LTIJC+1lrEGPRjHK4d5MsKT4+sAETngCFpfAgS40/bNa/ixGC2v8atwZalRghwVH97965kaSb9QCxOCt1LPtJ36ZW9CxFX4iq2uuDa8hltfyAinF5lyW+Rn5I57Mtkg74ZkoAW6EDq69iCTN14tKOjiEWFwaSU9ajyrRx8H9GQvX+Y="
+  },
+  {
+    "keyname": "Japan Server",
+    "protocol": "vmess://",
+    "is_vip": false,
+    "country": "JP",
+    "flagimgurl": "https://flagcdn.com/w40/jp.png",
+    "encrypted_key": "rHxOM4a3seqRdwOO4ZVJH5oc8KOJXi6eV9T9Pln3N2xKY2gIBNqJCWevtbLDqi3dDa6nxK/3x+E5D1z7WDkkqAdItUziniOGVhU0rJbzgQ2tAjcw9BdxvLS7fl3MBPIAI9dcxBqdS+CPciY0q+uhIXnHLGBZyW4n3sJRo/keQy26psEfRl1sjKRb2PWmOVT1EeJqiPi5Q6IfKQwtdI7LLbkMHFph6UV2OAMf4Mt2ghAznUId9LDzjmE7zguc7vytAmr0xDBMByly5mX5zr0h+vxxh5xEoFQ3O9tB5oSFM1DlifWdF4LzXlSpNTPfcti2up0fewTYokz/ZntPElusjEtx9YBmUXyt0rKmvhayJ+7FccgYMMR2FWTVV3w84c+04sfrBAm7p7FILr+JSJkWG70mMDOxNnC6oFU73SzFnG9/DfgJPcMry0dk6vqziRBK"
+  },
+  {
+    "keyname": "xxx Server",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "JP",
+    "flagimgurl": "https://flagcdn.com/w40/jp.png",
+    "encrypted_key": "Wh2fWfCLW1IKlroqhD13E39f4u9JgQBNTeu1DcBGyUsX+BGN/QupRtV8/2ETRK/pc7RfeeJ2y/Wfc8oo+Kj7GtvlXCGkJMv2JnPLg981CrU8TtxwYaJ9QKq4Oaok38O42ffS8LgVZpbNhd1+JxNOHtVa80M7hbznch0OOp4tZjl7opqzgGHx5I9QA+Fg0FkX2TdOTQa1ytkdc8AB0QfJYQ=="
+  },
+  {
+    "keyname": "ndk Server",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "JP",
+    "flagimgurl": "https://flagcdn.com/w40/jp.png",
+    "encrypted_key": "R8mWYV9rikJ9uKIgFic023+bp9vt5j/KO/igRmdg4vVzhEeBXfaz4+qq5KMNirRpIqiLmpKH4kdFM9T90J/pJPRB+BWCt2Hjvl20aBCFt5VV94LNWrnJ1anuUvGRAtY8keNf96vllIFgXWBbzxzzsSEHclBgtdnAikcVRNHCy/Q="
+  },
+  {
+    "keyname": "popo Server",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "JP",
+    "flagimgurl": "https://flagcdn.com/w40/jp.png",
+    "encrypted_key": "Ymnc80kqR9NnOQmRDQc0rBfmsNj/FlaCGlALhaLmYNB76Z/+LuEpX9X+aZpKKPusYfxgSM/GVEtiPf1g2aRH/kRXmW2a6wc4jtpXgtIdNI2K7Wl43EXzdG6nYe7WjcVBM5vEKG7rQ/6Nrt5N2NLzf/g0mtV8PqoLmt38upoFKjA="
+  }
+]

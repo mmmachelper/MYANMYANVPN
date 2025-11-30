@@ -1,26 +1,34 @@
 [
   {
-    "keyname": "US Server 1",
+    "keyname": "Server 1",
     "protocol": "ss://",
     "is_vip": false,
     "country": "US",
     "flagimgurl": "https://flagcdn.com/w40/us.png",
-    "encrypted_key": "Y0Yb0jbiHPynG+cA432Mwa5ZS2KPC7P2LsvpK+8bAjrPpvfZmJragYW9cffk3q6Fh1n0i/7Ec/V/Lb1BLQRHkwJ4Tiv5d/JFZSqUz7qgRL6glBbkGsR1x+oQQCB+wWPV7xO7j39imiJM7mBb0NDO+g=="
+    "encrypted_key": "JPXBZZhRV3jt3uG6Y06SnK/AofmdnHdmh2mT6kqy3u1e9S3IuKe48kAAIauY1K8dC+98fBtHIhSEYSj+Ike3QRx4K8hEcaUZH7i3LsPvpgcgrI8WMivFfM8ZgoswuEHyPabgZC6AZC6JePGJE7T2og=="
   },
   {
-    "keyname": "Japan Server",
+    "keyname": "Server 2",
     "protocol": "vmess://",
     "is_vip": false,
     "country": "JP",
     "flagimgurl": "https://flagcdn.com/w40/jp.png",
-    "encrypted_key": "4p3pdrWNlabubNnv/9O2/LiN6rF5KxaXPLlViloabB4fRCW5STUWlTBt83WkglMtEEnVZ65mKde+t6iJoUGY5g80MY3ODtoCUWwjzExZb5FmDzM8t2fIs0rAQBYys0XyXvlmh69GC0FhS1Ku/TOu5TwvezYRatDhYxGcA5v47c44rScDIrzmI015OINXPWjA9aedIXVB8adJOSCpEsh8we9uxx6G9FD7RFDPksrbuFEiIZa/8v9WknyD10BgWp5BZpuLhw9RX57aBdPsju46rd4oq350tpp36FbpeblSX+UrbVzkHiYxrAZS01055gBN7fupFHbbVg9CaOxvP/axlbJdA2e4axMidsN6aZt23XzdcHU1bSuX9w4NNyTdVZ4O6MZzPiCfZtCDB7J4khZYz/S3l0Jx6Ace0D7u2b3ilMI="
+    "encrypted_key": "Y18hfcS+H8a1WxZUIsd8K2VJl44is2nD7N+4mp4eMf1ksEaguNGHtvAFwwUHYF11xTYjLDZun6Ap1yAYCu3CsXjjRlfsi1yD3ErRZ/9YpkjzNwp34HtvyKdoPF9r6hrUpBJxLTilHiDFjaBUPk+/X8uT36qy6roQhAqYOtPM1OLu4NZPs7U9MBN6F3jKETBBHf/F5eRAWAVVv6b9Pdaxuwi2mIBYRNcB8vtaMkoX9PYYWVe1WPd+LD5gDaN6ton0Aji0kS4Sbb27b5L25hgUqxb+4GYpUT/3vJrVHSWcXZvi8r98lcZK/M6RC90nsx4LxKdNK4EmyfCoPhO0/uHsmHBQa1rO/Q5rGFBm8RtJyUVvsFjF//1M/aFCfU/xz/VTCgXpPs48mzzpJSZbv3Lj+iyEfg2bFm8WN5clXojGYvA="
   },
   {
-    "keyname": "popo Server",
+    "keyname": "Server 3",
     "protocol": "ss://",
     "is_vip": false,
     "country": "JP",
     "flagimgurl": "https://flagcdn.com/w40/jp.png",
-    "encrypted_key": "9zPrd7HgiMNX2CJr0qXvNAc7Tj2SvuQubBF59L0VHiu/Jp7ETcfvNCiU3nvIZOCzb3cZ4540b35JLoxWiSt0MFP96mhzS+s9KIcvrLd9PDhjHnxhxVNlKUMbGxdN4/CPGzE5ZsFkrJ4tOdevJa2Itzz/AeZbILWGMJLXrkBHffc="
+    "encrypted_key": "lByyX6cx3aNxmVs5/MnCvFZj8z9U4Mk//9Vrr/CNnYsjO7wzG9k/a3u6uJa2kHxLxqcU38wKLuzQjcfAQX+ue6EjguRgt9ZdNgsqUBH3QNgV1GUnbER0duJVyUgVwq8BBYnqTBgY1A3A4BHwMVIESJ1U7x1SEJnbPHGbEWcnC78="
+  },
+  {
+    "keyname": "Server 4",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "SG",
+    "flagimgurl": "https://flagcdn.com/w40/sg.png",
+    "encrypted_key": "f0zmoArwONqLzA1X0NIwubRwmgVzy7wozaCGqnmGLhI/mnwGWx5uupcSu20cUJSm/RYKHZV2/gu+xCZwF9cjVSW3V/TuHVPBLQ2DVKtSeJSHbl0gHqpRKdBuP4is99j5V1AxgoVZ7qdbm1mKN+zZZzM5LCgoeAPCoUaYuE6XmXE="
   }
 ]

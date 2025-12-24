@@ -8,12 +8,12 @@
       "ads": [
         {
           "id": "open_001",
-          "name": "Holiday Promo",
+          "name": "adsnotice",
           "media_type": "video",
-          "media_url": "https://example.com/ads/promo.mp4",
+          "media_url": "https://cf-file-paste.ftube-net.workers.dev/d/82875623-f103-440b-85b8-9d16415da30e",
           "click_url": "https://example.com/promo",
-          "duration_seconds": 5,
-          "skip_after_seconds": 3,
+          "duration_seconds": 15,
+          "skip_after_seconds": 5,
           "priority": 1,
           "start_date": "2025-12-20",
           "end_date": "2025-12-31"
@@ -29,7 +29,7 @@
           "id": "banner_001",
           "name": "Premium Banner",
           "media_type": "image",
-          "media_url": "https://example.com/ads/banner.png",
+          "media_url": "https://pub-96ddbe9ee28145c2b1af79ae8bada090.r2.dev/ATA_Promote_Banner.png",
           "click_url": "https://example.com/premium",
           "position": "under_title",
           "priority": 1

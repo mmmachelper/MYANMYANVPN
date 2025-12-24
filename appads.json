@@ -12,6 +12,7 @@
           "media_type": "video",
           "media_url": "https://cdnok.geoclass.space/myanadsvideo.mp4",
           "click_url": "https://example.com/promo",
+          "button_text": "Download Now",
           "duration_seconds": 15,
           "skip_after_seconds": 5,
           "priority": 1,

@@ -1,1 +1,55 @@
 
+{
+  "ads_config": {
+    "global_enabled": true,
+    
+    "open_ads": {
+      "enabled": true,
+      "ads": [
+        {
+          "id": "open_001",
+          "name": "Holiday Promo",
+          "media_type": "video",
+          "media_url": "https://example.com/ads/promo.mp4",
+          "click_url": "https://example.com/promo",
+          "duration_seconds": 5,
+          "skip_after_seconds": 3,
+          "priority": 1,
+          "start_date": "2025-12-20",
+          "end_date": "2025-12-31"
+        }
+      ]
+    },
+    
+    "banner_ads": {
+      "enabled": true,
+      "refresh_interval_seconds": 30,
+      "ads": [
+        {
+          "id": "banner_001",
+          "name": "Premium Banner",
+          "media_type": "image",
+          "media_url": "https://example.com/ads/banner.png",
+          "click_url": "https://example.com/premium",
+          "position": "under_title",
+          "priority": 1
+        }
+      ]
+    },
+    
+    "text_ads": {
+      "enabled": true,
+      "scroll_speed": "normal",
+      "ads": [
+        {
+          "id": "text_001",
+          "name": "New Year Sale",
+          "text": "🎉 New Year Sale! Get 50% OFF Premium! 🚀",
+          "click_url": "https://example.com/sale",
+          "text_color": "#FFD700",
+          "priority": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "version_code": 1,
-  "version_name": "1.0.0",
-  "forced_update": true,
-  "apk_download_url": "https://cdnok.geoclass.space/V-1.1.7.apk"
+  "version_code": 4,
+  "version_name": "2.0.0",
+  "forced_update": false,
+  "apk_download_url": "https://cdnok.geoclass.space/V-2.0.0.apk"
 }
